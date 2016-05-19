@@ -1,2 +1,2 @@
-# guru-laghima
+# Guru Laghima
 World Philosopher Tweetbot
